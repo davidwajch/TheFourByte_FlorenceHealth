@@ -4,7 +4,7 @@
 **Membros:**
 
 * Ana Carolina Costa
-* David
+* David Wajchenberg
 * Guilherme Bueno
 * Henrique Rocha
 
