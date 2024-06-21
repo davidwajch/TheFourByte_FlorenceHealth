@@ -18,7 +18,7 @@
 **Problema:** 
 * Trilha 02 (Paciente) - "Soluções que que auxiliam pacientes e melhorem o acesso a saúde, reduzam filas, melhorem a triagem de pacientes e reduzam o retorno de pacientes aos serviços".
   
-* **Solução:**
+**Solução:**
 * Desenvolvimento do aplicativo Florence Health, que tem como objetivo simplificar o acesso aos serviços de saúde através de um pré-check-in digital com informações de sinais vitais (por exemplo, batimentos cardíacos) e sintomas (utilizando a Protocolo de Manchester) para avaliação do grau de urgência. O aplicativo auxilia na triagem dos usuários, oferecendo conveniência, agilidade e direcionamento preciso aos serviços públicos necessários.
   
 **Plano Ação:** 
