@@ -1,5 +1,5 @@
 # The FourByte
-![image](https://github.com/GuilhermeBPinheiro/TheFourByte_FlorenceHealth/assets/57289531/eac1b4d4-b092-4dac-a9aa-282b9885fb3d)
+![Logo_FourByte](https://github.com/GuilhermeBPinheiro/TheFourByte_FlorenceHealth/assets/57289531/6411528d-10a2-431c-a97f-3055183b47b9)
 
 **Membros:**
 
