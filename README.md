@@ -30,4 +30,4 @@
 * Para ter acesso a dinâmica de telas e conhecer um pouco do nosso aplicativo, foi criado uma interatividade na plataforma Figma. Basta apertar aqui --> [FLORENCE HEALTH](https://www.figma.com/proto/UMkHhBXAoX6sc2udSchwzY/The-FourByte---Forence-Health?node-id=144-46&t=nx7RJcVTITyD54ut-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=144%3A46)
 
 **Interface Gráfica:**
-* Pode ser visualziado as artes indidualizada das telas criadas, acesse o documento em PDF --> [CLIQUE AQUI](file:///C:/Users/joaop/Downloads/The%20FourByte%20-%20Telas%20(Figma).pdf)
+* Pode ser visualziado as artes indidualizada das telas criadas, acesse o documento em PDF --> [CLIQUE AQUI](https://github.com/GuilhermeBPinheiro/TheFourByte_FlorenceHealth/blob/main/The%20FourByte%20-%20Telas%20(Figma).pdf)
