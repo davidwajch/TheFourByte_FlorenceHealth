@@ -27,7 +27,7 @@
 * Ainda hoje, enfrentamos o desafio de atender nossa população considerando suas expectativas e necessidades durante o atendimento médico, assegurando uma assistência de qualidade e segura. O aplicativo Florence Health foi desenvolvido para otimizar o fluxo de pacientes, classificando sua prioridade com base em sinais vitais e sintomas usando a escala de Manchester, e também oferece um mapa interativo que direciona o paciente para o hospital mais próximo. Isso agiliza o atendimento e melhora o prognóstico, especialmente em condições críticas como Síndrome Coronariana Aguda e SEPSE, ajudando a reduzir o tempo de espera e aumentar a eficácia dos cuidados médicos.
 
 **Protótipo:**
-* Para ter acesso a dinâmica de telas e conhecer um pouco do nosso aplicativo, foi criado uma interatividade na plataforma Figma. Basta apertar aqui --> [FLORENCE HEALTH](https://www.figma.com/proto/UMkHhBXAoX6sc2udSchwzY/The-FourByte---Forence-Health?node-id=144-46&t=nx7RJcVTITyD54ut-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=144%3A46)
+* Para ter acesso a dinâmica de telas e conhecer um pouco do nosso aplicativo, foi criado uma interatividade na plataforma Figma. Basta apertar aqui --> [FLORENCE HEALTH](https://www.figma.com/proto/UMkHhBXAoX6sc2udSchwzY/The-FourByte---Forence-Health?node-id=144-46&t=nx7RJcVTITyD54ut-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=144%3A46).
 
 **Interface Gráfica:**
-* Pode ser visualziado as artes indidualizada das telas criadas, acesse o documento em PDF --> [CLIQUE AQUI](https://github.com/GuilhermeBPinheiro/TheFourByte_FlorenceHealth/blob/main/The%20FourByte%20-%20Telas%20(Figma).pdf)
+* Pode ser visualziado as artes indidualizada das telas criadas, acesse o documento em PDF --> [CLIQUE AQUI](https://github.com/GuilhermeBPinheiro/TheFourByte_FlorenceHealth/blob/main/The%20FourByte%20-%20Telas%20(Figma).pdf).
